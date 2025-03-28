@@ -1,0 +1,65 @@
+window:
+  opacity: 0.75  # Just slightly darker for depth
+  padding:
+    x: 10
+    y: 10
+  decorations: none  
+
+font:
+  normal:
+    family: "FiraCode"
+    style: Regular
+  bold:
+    family: "FiraCode"
+    style: Bold
+  italic:
+    family: "FiraCode"
+    style: Italic
+  size: 10  
+
+colors:
+  primary:
+    background: "#0a0d15"  # Even deeper navy-black
+    foreground: "#c5cbe3"  # Slightly dimmed cool light blue
+
+  cursor:
+    text: "#0a0d15"  
+    cursor: "#c5cbe3"  
+
+  normal:
+    black: "#1a1e2a"  # Darker, less contrast-y black
+    red: "#e06c75"  
+    green: "#98c379"  
+    yellow: "#d19a66"  
+    blue: "#6189c5"  
+    magenta: "#b68acb"  
+    cyan: "#56b6c2"  
+    white: "#c7cadf"  
+
+  bright:
+    black: "#6b728d"  # Slightly darker grey (better contrast on dark backgrounds)
+    red: "#d16978"  
+    green: "#8ebf73"  
+    yellow: "#c99a5e"  
+    blue: "#5577af"  
+    magenta: "#a07ac2"  
+    cyan: "#4ca7b1"  
+    white: "#e0e3f3"  
+
+  dim:
+    black: "#151a23"  
+    red: "#a95662"  
+    green: "#7fa76a"  
+    yellow: "#af8650"  
+    blue: "#4e6a9b"  
+    magenta: "#8467a3"  
+    cyan: "#3f8f96"  
+    white: "#9da3bb"  
+
+selection:
+  save_to_clipboard: true
+
+decorations:
+  #border: "#3C405A"  # Subtle border matching the background
+  opacity: 0.9  # Light transparency for a smooth feel
+
