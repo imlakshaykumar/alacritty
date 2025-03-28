@@ -27,7 +27,8 @@ colors:
     cursor: "#c5cbe3"  
 
   normal:
-    black: "#757b91"
+    #black: "#757b91"
+    black: "#575b6f"
     red: "#e06c75"  
     green: "#98c379"  
     yellow: "#d19a66"  
