@@ -27,7 +27,7 @@ colors:
     cursor: "#c5cbe3"  
 
   normal:
-    black: "#1a1e2a"  # Darker, less contrast-y black
+    black: "#757b91"
     red: "#e06c75"  
     green: "#98c379"  
     yellow: "#d19a66"  
@@ -37,7 +37,7 @@ colors:
     white: "#c7cadf"  
 
   bright:
-    black: "#6b728d"  # Slightly darker grey (better contrast on dark backgrounds)
+    black: "#868ba3"
     red: "#d16978"  
     green: "#8ebf73"  
     yellow: "#c99a5e"  
